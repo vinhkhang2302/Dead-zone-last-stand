@@ -2,11 +2,6 @@
 
 A 3D wave-survival action game built with Godot 4.7.1.
 
-## Team
-| Member | Main Contribution |
-|---|---|
-| [Your name] | All (solo project) |
-
 ## Game Concept
 You are a survivor trapped in three locations (parking lot, warehouse,
 rooftop). Zombies attack in waves, and a boss ends each level.
